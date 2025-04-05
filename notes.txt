@@ -1,0 +1,7 @@
+Approach 1: Search Engine
+    -> Highly unreliable search results
+Approach 2: Lookup datasets
+    -> Caveat: Publicly available datasets
+Approach 3: Groq
+    -> Straightforward prompt
+    -> inconsistent/ sometimes inaccurate
