@@ -27,6 +27,3 @@ def normalize():
     
     return make_response("Invalid request method", 405)
 
-
-if __name__ == "__main__":
-    app.run(debug=True)
